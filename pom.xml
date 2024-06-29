@@ -61,8 +61,8 @@
    </dependencies>
    
    <profiles>
-		  <profile>
-			  <id>ST</id>
+		<profile>
+	  <id>ST</id>
    <build>
 		<plugins>
 			<!-- Below plug-in is used to execute tests -->
@@ -80,9 +80,9 @@
 		</plugins>
 	</build>
 		  </profile>
-		  
-		  <profile>
-			  <id>RT</id>
+		  	  
+	 <profile>
+	    <id>RT</id>
    <build>
 		<plugins>
 			<!-- Below plug-in is used to execute tests -->
