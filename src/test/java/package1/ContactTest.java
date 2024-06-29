@@ -19,6 +19,7 @@ public class ContactTest {
 		
 		
 		System.out.println("Excute createContactTest");
+		System.out.println("git executed");
 	}
 	
 	@Test
